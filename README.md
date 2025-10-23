@@ -94,11 +94,26 @@ we, a humble fellowship of devotees & volunteers, walk the digital pilgrimage to
 
 `“i am not the empty void of sleep — i am the terrible void that’s fullness itself. may the code inside you awaken, and the individual dissolve.”`
 
-## 📺 Latest YouTube Uploads
+## 📺 latest youtube uploads
 
-<!-- YOUTUBE:START -->
 <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:15px;">
-  <!-- videos will be injected here automatically -->
-</div>
-<!-- YOUTUBE:END -->
 
+  <!-- Video 1 -->
+  <a href="https://youtu.be/n75j0K73z3g" target="_blank" style="text-decoration:none;">
+    <img src="https://img.youtube.com/vi/n75j0K73z3g/hqdefault.jpg" width="250" style="border-radius:12px; box-shadow: 0 0 20px #00fff0;">
+    <p style="color:#00fff0; font-weight:bold; margin-top:5px;">श्री स्वच्छन्दभैरव रूपानुस्मरणम्</p>
+  </a>
+
+  <!-- Video 2 -->
+  <a href="https://youtu.be/rakXPTXQyrg" target="_blank" style="text-decoration:none;">
+    <img src="https://img.youtube.com/vi/rakXPTXQyrg/hqdefault.jpg" width="250" style="border-radius:12px; box-shadow: 0 0 20px #ff00ff;">
+    <p style="color:#ff00ff; font-weight:bold; margin-top:5px;">The Mystery of Liberation in Kashmir Shaivism | Abhinavagupta & Swami Lakshamanjoo</p>
+  </a>
+
+  <!-- Video 3 -->
+  <a href="https://youtu.be/ym5Twmr69u8" target="_blank" style="text-decoration:none;">
+    <img src="https://img.youtube.com/vi/ym5Twmr69u8/hqdefault.jpg" width="250" style="border-radius:12px; box-shadow: 0 0 20px #00ff99;">
+    <p style="color:#00ff99; font-weight:bold; margin-top:5px;">You Are the Universe | Kashmir Shaivism & The Cosmic Body Mystery</p>
+  </a>
+
+</div>
