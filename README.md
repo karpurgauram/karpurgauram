@@ -7,7 +7,7 @@ we, a humble fellowship of devotees & volunteers, walk the digital pilgrimage to
 
 ## 🌺 bout me  
 
-🎥 **youtuber**, **music producer**, **sound engineer**, **writer**, **editor**, and **rookie developer by betrayal** — reborn in code to carve digital temples of consciousness. i create content that bridges **metaphysics**, **music**, and **machine** — from *trika philosophy* to *electronic symphonies*. once, a musician. now, a dev forging web universes. when my coder vanished into void, i became the code.
+🎥 **youtuber**, **music producer**, **sound engineer**, **writer**, **editor**, and **rookie developer by betrayal** — reborn in code to carve digital temples of consciousness. i create content that bridges **metaphysics**, **music**, and **machine** — from *trika philosophy* to *electronic symphonies*. once, a musician. now, a dev forging web universes. when my coder vanished into void, i became the terrible void.
 
 ### 🌐 digital sanctums
 
