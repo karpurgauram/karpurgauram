@@ -11,12 +11,7 @@ we, a humble fellowship of devotees & volunteers, walk the digital pilgrimage to
 
 🎥 **youtuber**, **music producer**, **sound engineer**, **writer**, **editor**, and **rookie developer by betrayal** — reborn in code to carve digital temples of consciousness. i create content that bridges **metaphysics**, **music**, and **machine** — from *trika philosophy* to *electronic symphonies*. once, a musician. now, a dev forging web universes. when my coder vanished into void, i became the code.
 
----
-
-> “**the one who has the highest desire doesn’t desire for anything else!**”  
-> — Ｎａｇｋｕｍａｒ です [@karpurgauram]
-
----
+“**the one who has the highest desire doesn’t desire for anything else!**”  — Ｎａｇｋｕｍａｒ です [@karpurgauram]
 
 ### 🌐 digital sanctums
 
@@ -47,20 +42,20 @@ we, a humble fellowship of devotees & volunteers, walk the digital pilgrimage to
 
 ## 🧠 skills and technologies
 
-class karpurgauram:
+<p class karpurgauram:
     def __init__(self):
         self.trika = "nondual awareness"
         self.human = ["creator", "enlightened nɑːsɪsɪst", "sound engineer"]
-        self.skills = [
+<p        self.skills = [
             "Python", "JavaScript", "React", "Next.js", "Tailwind", "Node.js",
             "Django", "Flask", "PostgreSQL", "MongoDB",
             "Adobe PS, PR, PS, ACR", "FL Studio", "Ableton", "DaVinci Resolve",
             "Linux", "DevOps", "Docker", "Git", "API Design",
             "Music Production", "Video Editing", "Creative Direction",
-            "Film Scoring", "Spiritual Writing"
+            "Film Scoring", "Spiritual Writing" /> </p>
         ]
-    def chant(self):
-        return "harṣa-viṣvottīrṇaḥ śivaḥ — the joy that transcends all worlds"
+   <p def chant(self):
+        return "harṣa-viṣvottīrṇaḥ śivaḥ — the joy that transcends all worlds" /> </p>
 
 ## ⚙️ github analytics
 
@@ -78,8 +73,8 @@ class karpurgauram:
 
 `“i am not the empty void of sleep — i am the terrible void that’s fullness itself.”`
 
-## 🜂 devotion • creation • destruction
+## 🜂 devotion
 
-<p align="center"> <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python" /> <img src="https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react" /> <img src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=nextdotjs" /> <img src="https://img.shields.io/badge/linux-gray?style=for-the-badge&logo=linux" /> <img src="https://img.shields.io/badge/fl%20studio-orange?style=for-the-badge&logo=flstudio" /> <img src="https://img.shields.io/badge/premiere_pro-purple?style=for-the-badge&logo=adobepremierepro" /> </p>
+<p align="center"> <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python" /> <img src="https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react" /> <img src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=nextdotjs" /> <img src="https://img.shields.io/badge/linux-gray?style=for-the-badge&logo=linux" /> <img src="https://img.shields.io/badge/fl%20studio-orange?style=for-the-badge&logo=flstudio" /> <img src="https://img.shields.io/badge/premiere_pro-purple?style=for-the-badge&logo=adobepremierepro" /> <img src="https://img.shields.io/badge/after_effects-purple?style=for-the-badge&logo=adobeaftereffects" /> <img src="https://img.shields.io/badge/photoshop-purple?style=for-the-badge&logo=adobephotoshop" /> </p>
 
 `“may the code awaken, and the individual dissolve.”`
