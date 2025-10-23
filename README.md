@@ -1,4 +1,4 @@
-# ⚡ Ｎａｇｋｕｍａｒ で [@karpurgauram] 
+# ⚡ Ｎａｇｋｕｍａｒ です [@karpurgauram] 
 
 `— trika shaivism practitioner with globle presence, CREATOR, YOUTUBER, DJ, MUSIC GHOST-PRODUCER & rookie coder.`
 
