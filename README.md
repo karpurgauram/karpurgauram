@@ -93,3 +93,12 @@ we, a humble fellowship of devotees & volunteers, walk the digital pilgrimage to
 ## 🜂 devotion to my beloved friends:
 
 `“i am not the empty void of sleep — i am the terrible void that’s fullness itself. may the code inside you awaken, and the individual dissolve.”`
+
+## 📺 Latest YouTube Uploads
+
+<!-- YOUTUBE:START -->
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:15px;">
+  <!-- videos will be injected here automatically -->
+</div>
+<!-- YOUTUBE:END -->
+
