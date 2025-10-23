@@ -1,4 +1,4 @@
-# ⚡ karpurgauram — trika shaivism practitioner with globle presence, creator, & rookie coder.
+# ⚡ Ｎａｇｋｕｍａｒ で [@karpurgauram] — trika shaivism practitioner with globle presence, CREATOR, YOUTUBER, DJ, MUSIC GHOST-PRODUCER & rookie coder.
 
 > **hail, noble seeker, and welcome to the sacred domain of [karpurgauram](https://karpurgauram.xyz/)!**  
 > we, a humble fellowship of devotees & volunteers, walk the digital pilgrimage to unveil and immortalize the celestial wisdom of **trikaśāsan — kashmir shaivism** through the marvels of the machine age.  
