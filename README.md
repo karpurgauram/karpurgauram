@@ -100,19 +100,19 @@ we, a humble fellowship of devotees & volunteers, walk the digital pilgrimage to
 
   <!-- Video 1 -->
   <a href="https://youtu.be/n75j0K73z3g" target="_blank" style="text-decoration:none;">
-    <img src="https://img.youtube.com/vi/n75j0K73z3g/hqdefault.jpg" width="250" style="border-radius:12px; box-shadow: 0 0 20px #00fff0;">
+    <img src="https://img.youtube.com/vi/n75j0K73z3g/hqdefault.jpg" width="480" style="border-radius:1px; box-shadow: 0 0 2px #00fff0;">
     <p style="color:#00fff0; font-weight:bold; margin-top:5px;">श्री स्वच्छन्दभैरव रूपानुस्मरणम्</p>
   </a>
 
   <!-- Video 2 -->
   <a href="https://youtu.be/rakXPTXQyrg" target="_blank" style="text-decoration:none;">
-    <img src="https://img.youtube.com/vi/rakXPTXQyrg/hqdefault.jpg" width="250" style="border-radius:12px; box-shadow: 0 0 20px #ff00ff;">
+    <img src="https://img.youtube.com/vi/rakXPTXQyrg/hqdefault.jpg" width="480" style="border-radius:1px; box-shadow: 0 0 2px #ff00ff;">
     <p style="color:#ff00ff; font-weight:bold; margin-top:5px;">The Mystery of Liberation in Kashmir Shaivism</p>
   </a>
 
   <!-- Video 3 -->
   <a href="https://youtu.be/ym5Twmr69u8" target="_blank" style="text-decoration:none;">
-    <img src="https://img.youtube.com/vi/ym5Twmr69u8/hqdefault.jpg" width="720" style="border-radius:12px; box-shadow: 0 0 20px #00ff99;">
+    <img src="https://img.youtube.com/vi/ym5Twmr69u8/hqdefault.jpg" width="480" style="border-radius:1px; box-shadow: 0 0 2px #00ff99;">
     <p style="color:#00ff99; font-weight:bold; margin-top:5px;">You Are the Universe</p>
   </a>
 
