@@ -5,7 +5,7 @@
 hail, noble seeker, and welcome to the sacred domain of [karpurgauram](https://karpurgauram.xyz/)!
 we, a humble fellowship of devotees & volunteers, walk the digital pilgrimage to unveil and immortalize the celestial wisdom of **trikaśāsan — kashmir shaivism** through the marvels of the machine age. 
 
-## 🌺 about me  
+## 🌺 bout me  
 
 🎥 **youtuber**, **music producer**, **sound engineer**, **writer**, **editor**, and **rookie developer by betrayal** — reborn in code to carve digital temples of consciousness. i create content that bridges **metaphysics**, **music**, and **machine** — from *trika philosophy* to *electronic symphonies*. once, a musician. now, a dev forging web universes. when my coder vanished into void, i became the code.
 
@@ -45,8 +45,7 @@ we, a humble fellowship of devotees & volunteers, walk the digital pilgrimage to
 
 <h3>🧠 essential skills and technologies </h3>
 
-<h3>**trika:** nondual awareness  
-**human:** creator • enlightened nɑːsɪsɪst • sound engineer </h3>
+<h3>trika:nondual awareness • human:creator • enlightened nɑːsɪsɪst • sound engineer</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ffde57" />
@@ -75,7 +74,7 @@ we, a humble fellowship of devotees & volunteers, walk the digital pilgrimage to
   <img src="https://img.shields.io/badge/Spiritual_Writing-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 </p>
 
-<p><i>harṣa-viṣvottīrṇaḥ śivaḥ — the joy that transcends all worlds</i></p>
+<p><i>हर्ष-विश्वोत्तीर्णः शिवः — harṣa-viṣvottīrṇaḥ śivaḥ — the joy that transcends all worlds</i></p>
 
 </div>
 
@@ -93,4 +92,4 @@ we, a humble fellowship of devotees & volunteers, walk the digital pilgrimage to
 
 ## 🜂 devotion to my beloved friends:
 
-`“i am not the empty void of sleep — i am the terrible void that’s fullness itself.”` `“may the code awaken, and the individual dissolve.”`
+`“i am not the empty void of sleep — i am the terrible void that’s fullness itself. may the code inside you awaken, and the individual dissolve.”`
