@@ -34,12 +34,7 @@ we, a humble fellowship of devotees & volunteers, walk the digital pilgrimage to
 - 🌸 **homepage:** [@nagkumar](https://t.me/nagkumar)  
 - 🔮 **contact:** [@karpurgauram](https://t.me/karpurgauram)  
 
----
-
-## 🧠 essential skills and technologies
-
-**trika:** nondual awareness  
-**human:** creator • enlightened nɑːsɪsɪst • sound engineer  
+--- 
 
 <div align="center" style="
   background: radial-gradient(circle at center, #00fff0 0%, #000000 70%);
@@ -48,7 +43,10 @@ we, a humble fellowship of devotees & volunteers, walk the digital pilgrimage to
   box-shadow: 0 0 30px #00fff0a0, 0 0 60px #ff00ffaa;
 ">
 
-<h3>⚡ Skills & Tools</h3>
+<h3>🧠 essential skills and technologies </h3>
+
+<h3>**trika:** nondual awareness  
+**human:** creator • enlightened nɑːsɪsɪst • sound engineer </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ffde57" />
@@ -77,7 +75,7 @@ we, a humble fellowship of devotees & volunteers, walk the digital pilgrimage to
   <img src="https://img.shields.io/badge/Spiritual_Writing-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 </p>
 
-<p><i>"`harṣa-viṣvottīrṇaḥ śivaḥ — the joy that transcends all worlds`</i></p>
+<p><i>harṣa-viṣvottīrṇaḥ śivaḥ — the joy that transcends all worlds</i></p>
 
 </div>
 
