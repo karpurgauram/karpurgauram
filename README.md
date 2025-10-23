@@ -40,38 +40,39 @@ we, a humble fellowship of devotees & volunteers, walk the digital pilgrimage to
 
 ---
 
-## 🧠 skills and technologies
+## 🧠 essential skills and technologies
 
-```python
-class karpurgauram:
-    def __init__(self):
-        self.trika = "nondual awareness"
-        self.human = ["creator", "enlightened nɑːsɪsɪst", "sound engineer"]
-        self.skills = [
-            "Python", "JavaScript", "React", "Next.js", "Tailwind", "Node.js",
-            "Django", "Flask", "PostgreSQL", "MongoDB",
-            "Adobe PS, PR, ACR", "FL Studio", "Ableton", "DaVinci Resolve",
-            "Linux", "DevOps", "Docker", "Git", "API Design",
-            "Music Production", "Video Editing", "Creative Direction",
-            "Film Scoring", "Spiritual Writing"
-        ]
+**trika:** nondual awareness  
+**human:** creator • enlightened nɑːsɪsɪst • sound engineer  
 
-    def chant(self):
-        return "harṣa-viṣvottīrṇaḥ śivaḥ — the joy that transcends all worlds"
-        <p align="center"> <img src="https://img.shields.io/badge/Python-%23121011.svg?&style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=000000&color=gradient" /> <img src="https://img.shields.io/badge/React-%2300d8ff.svg?&style=for-the-badge&logo=react&logoColor=white&labelColor=000000&color=gradient" /> <img src="https://img.shields.io/badge/Next.js-%23000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=000000&color=gradient" /> <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black&labelColor=000000&color=gradient" /> <img src="https://img.shields.io/badge/FL%20Studio-%23ff7518.svg?&style=for-the-badge&logo=flstudio&logoColor=white&labelColor=000000&color=gradient" /> <img src="https://img.shields.io/badge/Premiere%20Pro-%239999FF.svg?&style=for-the-badge&logo=adobepremierepro&logoColor=white&labelColor=000000&color=gradient" /> <img src="https://img.shields.io/badge/After%20Effects-%239999FF.svg?&style=for-the-badge&logo=adobeaftereffects&logoColor=white&labelColor=000000&color=gradient" /> <img src="https://img.shields.io/badge/Photoshop-%231FA1F1.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=white&labelColor=000000&color=gradient" /> <img src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white&labelColor=000000&color=gradient" /> <img src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=000000&color=gradient" /> </p> ```
+Python · JavaScript · React · Next.js · Tailwind · Node.js · Django · Flask · PostgreSQL · MongoDB ·  
+Adobe PS, PR, ACR · FL Studio · Ableton · DaVinci Resolve · Linux · DevOps · Docker · Git · API Design ·  
+Music Production · Video Editing · Creative Direction · Film Scoring · Spiritual Writing  
+
+`harṣa-viṣvottīrṇaḥ śivaḥ — the joy that transcends all worlds`
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-%23121011.svg?&style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=000000&color=gradient" />
+  <img src="https://img.shields.io/badge/React-%2300d8ff.svg?&style=for-the-badge&logo=react&logoColor=white&labelColor=000000&color=gradient" />
+  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=000000&color=gradient" />
+  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black&labelColor=000000&color=gradient" />
+  <img src="https://img.shields.io/badge/FL%20Studio-%23ff7518.svg?&style=for-the-badge&logo=flstudio&logoColor=white&labelColor=000000&color=gradient" />
+  <img src="https://img.shields.io/badge/Premiere%20Pro-%239999FF.svg?&style=for-the-badge&logo=adobepremierepro&logoColor=white&labelColor=000000&color=gradient" />
+  <img src="https://img.shields.io/badge/After%20Effects-%239999FF.svg?&style=for-the-badge&logo=adobeaftereffects&logoColor=white&labelColor=000000&color=gradient" />
+  <img src="https://img.shields.io/badge/Photoshop-%231FA1F1.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=white&labelColor=000000&color=gradient" />
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white&labelColor=000000&color=gradient" />
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=000000&color=gradient" />
+</p>
+
 
 ## ⚙️ github analytics
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=karpurgauram&show_icons=true&theme=radical&count_private=true" height="180em" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karpurgauram&layout=compact&theme=radical" height="180em" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=karpurgauram&theme=radical&date_format=j%20M%5B%20Y%5D" /> </p>
 
-📺 latest youtube uploads
-
-<!-- YOUTUBE:START --> <!-- dynamic content from python script will appear here --> <!-- YOUTUBE:END -->
-
-## 🌌 vision
+## 🌌 my vision
 
 `to weave the threads of ancient consciousness into modern code — to make trikaśāsan not a doctrine, but a digital reality.`
 
-## 🜂 to my beloved friends:
+## 🜂 devotion to my beloved friends:
 
 `“i am not the empty void of sleep — i am the terrible void that’s fullness itself.”` `“may the code awaken, and the individual dissolve.”`
