@@ -3,15 +3,11 @@
 `— trika shaivism practitioner with globle presence, CREATOR, YOUTUBER, DJ, MUSIC GHOST-PRODUCER & rookie coder.`
 
 hail, noble seeker, and welcome to the sacred domain of [karpurgauram](https://karpurgauram.xyz/)!
-we, a humble fellowship of devotees & volunteers, walk the digital pilgrimage to unveil and immortalize the celestial wisdom of **trikaśāsan — kashmir shaivism** through the marvels of the machine age.  
-
----
+we, a humble fellowship of devotees & volunteers, walk the digital pilgrimage to unveil and immortalize the celestial wisdom of **trikaśāsan — kashmir shaivism** through the marvels of the machine age. 
 
 ## 🌺 about me  
 
 🎥 **youtuber**, **music producer**, **sound engineer**, **writer**, **editor**, and **rookie developer by betrayal** — reborn in code to carve digital temples of consciousness. i create content that bridges **metaphysics**, **music**, and **machine** — from *trika philosophy* to *electronic symphonies*. once, a musician. now, a dev forging web universes. when my coder vanished into void, i became the code.
-
-“**the one who has the highest desire doesn’t desire for anything else!**”  — Ｎａｇｋｕｍａｒ です [@karpurgauram]
 
 ### 🌐 digital sanctums
 
@@ -45,24 +41,48 @@ we, a humble fellowship of devotees & volunteers, walk the digital pilgrimage to
 **trika:** nondual awareness  
 **human:** creator • enlightened nɑːsɪsɪst • sound engineer  
 
-Python · JavaScript · React · Next.js · Tailwind · Node.js · Django · Flask · PostgreSQL · MongoDB ·  
-Adobe PS, PR, ACR · FL Studio · Ableton · DaVinci Resolve · Linux · DevOps · Docker · Git · API Design ·  
-Music Production · Video Editing · Creative Direction · Film Scoring · Spiritual Writing  
+<div align="center" style="
+  background: radial-gradient(circle at center, #00fff0 0%, #000000 70%);
+  padding: 25px;
+  border-radius: 20px;
+  box-shadow: 0 0 30px #00fff0a0, 0 0 60px #ff00ffaa;
+">
 
-`harṣa-viṣvottīrṇaḥ śivaḥ — the joy that transcends all worlds`
+<h3>⚡ Skills & Tools</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-%23121011.svg?&style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=000000&color=gradient" />
-  <img src="https://img.shields.io/badge/React-%2300d8ff.svg?&style=for-the-badge&logo=react&logoColor=white&labelColor=000000&color=gradient" />
-  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=000000&color=gradient" />
-  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black&labelColor=000000&color=gradient" />
-  <img src="https://img.shields.io/badge/FL%20Studio-%23ff7518.svg?&style=for-the-badge&logo=flstudio&logoColor=white&labelColor=000000&color=gradient" />
-  <img src="https://img.shields.io/badge/Premiere%20Pro-%239999FF.svg?&style=for-the-badge&logo=adobepremierepro&logoColor=white&labelColor=000000&color=gradient" />
-  <img src="https://img.shields.io/badge/After%20Effects-%239999FF.svg?&style=for-the-badge&logo=adobeaftereffects&logoColor=white&labelColor=000000&color=gradient" />
-  <img src="https://img.shields.io/badge/Photoshop-%231FA1F1.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=white&labelColor=000000&color=gradient" />
-  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white&labelColor=000000&color=gradient" />
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=000000&color=gradient" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ffde57" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=f7df1e" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61dafb" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=0C4B33" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=336791" />
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-000000?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" />
+  <img src="https://img.shields.io/badge/Adobe_After_Effects-000000?style=for-the-badge&logo=adobeaftereffects&logoColor=9999FF" />
+  <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-000000?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF" />
+  <img src="https://img.shields.io/badge/FL_Studio-000000?style=for-the-badge&logo=flstudio&logoColor=F48C00" />
+  <img src="https://img.shields.io/badge/Ableton_Live-000000?style=for-the-badge&logo=abletonlive&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/DaVinci_Resolve-000000?style=for-the-badge&logo=davinciresolve&logoColor=4E76A7" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/DevOps-000000?style=for-the-badge&logo=githubactions&logoColor=2088FF" />
+  <img src="https://img.shields.io/badge/Music_Production-000000?style=for-the-badge&logo=itunes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Film_Scoring-000000?style=for-the-badge&logo=applemusic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Creative_Direction-000000?style=for-the-badge&logo=behance&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Spiritual_Writing-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 </p>
+
+<p><i>"`harṣa-viṣvottīrṇaḥ śivaḥ — the joy that transcends all worlds`</i></p>
+
+</div>
+
+
+
 
 
 ## ⚙️ github analytics
